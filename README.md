@@ -1,4 +1,7 @@
 # redis
 Redis deployment
 
-curl -O http://download.redis.io/releases/redis-4.0.2.tar.gz
+steps for GCP VM installation
+
+sudo apt-get update
+sudo apt-get install redis-server
